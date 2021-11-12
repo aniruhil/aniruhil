@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruhil&show_icons=true&theme=dracula)
+![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruhil&show_icons=true&theme=gruvbox)
 
 
