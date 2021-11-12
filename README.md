@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruhil&show_icons=true&theme=vision-friendly-dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruhil&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruhil&layout=compact&show_icons=true&theme=vision-friendly-dark)
