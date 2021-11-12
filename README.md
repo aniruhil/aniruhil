@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruhil&show_icons=true&theme=gradient)
+![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruhil&show_icons=true&theme=vision-friendly-dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruhil&layout=compact)
