@@ -1,11 +1,4 @@
 ### Hi there 👋
-
-
-
-<!--
-    This is a comment
-    and will not be displayed
-    -->
     
 <!--
 **aniruhil/aniruhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
